@@ -1,7 +1,28 @@
-# Sentiment_Analysis
+# Sentiment Analysis of Stand-Up Comedy Transcripts
 
-This project leverages Natural Language Processing (NLP) techniques to analyze transcripts from various stand-up comedians, extracting key themes, sentiment and linguistic patterns to understand what makes certain jokes resonate with audiences. By processing and visualizing this data, the project aims to uncover trends and insights within the realm of stand-up comedy.
+## Overview
 
-Transcripts for this project were sourced from a website (Scraps from the Loft).
+This project leverages Natural Language Processing (NLP) techniques to analyze transcripts from various stand-up comedians. The goal is to extract key themes, sentiments, and linguistic patterns to understand what makes certain jokes resonate with audiences.
 
-This project involves analyzing these transcripts to identify similarities and differences in comedians' styles and explore ways to generate new text based on the analyzed data.
+## Features
+
+- **Transcript Analysis**: Identify similarities and differences in comedians' styles.
+- **Sentiment Analysis**: Evaluate the emotional tone of the jokes.
+- **NLP Techniques**: Use advanced NLP methods to process and visualize data.
+
+## Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/namishjindal/Sentiment_Analysis.git
+   ```
+2. **Run the Jupyter Notebook:**
+   Open `Sentiment_Analysis.ipynb` in Jupyter Notebook and follow the instructions provided in the notebook.
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+This template provides a basic README structure, but you can customize it further based on the specific details of the project.
